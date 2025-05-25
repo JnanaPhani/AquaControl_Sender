@@ -1,0 +1,2 @@
+source /home/zenithtek/Aqua_Controller/Sender/basic/build/gdbinit/symbols
+source /home/zenithtek/Aqua_Controller/Sender/basic/build/gdbinit/connect
